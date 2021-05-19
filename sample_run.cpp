@@ -1,5 +1,3 @@
-//Sample file for students to get their code running
-
 #include<iostream>
 #include "file_manager.h"
 #include "errors.h"

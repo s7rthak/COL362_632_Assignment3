@@ -4,7 +4,7 @@
 #define CONSTANTS_H
 
 // fix buffer size 
-const int BUFFER_SIZE=40;
+const int BUFFER_SIZE=3;
 
 // constants relation to page
 
@@ -18,6 +18,6 @@ const int END_FREE=-1;
 const int NOT_FREE=-2; 
 
 // file header size - first page of file set as file header
-const int FILE_HDR_SIZE  = PAGE_SIZE;
+const int FILE_HDR_SIZE = PAGE_SIZE;
 
 #endif
